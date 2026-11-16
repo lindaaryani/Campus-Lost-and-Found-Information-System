@@ -44,3 +44,6 @@ next-env.d.ts
 /storage/
 .env.local
 .env
+
+# Local admin maintenance script
+scripts/reset-admin-password.ts
